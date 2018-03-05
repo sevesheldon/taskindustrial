@@ -1,0 +1,64 @@
+
+<div ng-repeat="post in filterPostsTemplate.posts" class="lscf-portrait columns-{{pluginSettings.filterSettings.theme.columns}}">
+        
+	<div class="block-featuredImage">
+		
+		<div class="post-featuredImage" ng-class="{'noPhoto': !post.featured_portrait}">
+			
+			<div class="px-flipper">
+				
+				<div class="flipper">
+					
+					<div class="flip-front">
+						
+						<a href="{{post.permalink}}">
+							<img ng-if="post.featured_portrait" ng-src="{{post.featured_portrait}}" class="featImg" />
+						</a>
+
+						<div class="block-price" ng-if="featuredLabel">
+							<label>{{post.featured_label}}</label>
+						</div>
+
+					</div>
+
+					<div class="flip-back">
+						<a href="{{post.permalink}}">
+							<img ng-if="post.featured_portrait" ng-src="{{post.featured_portrait}}" class="featImg" />
+						</a>
+						
+						<div class="post-overlay" ng-class="{'small':!featuredLabel}">
+
+							<div class="eyeglass"></div>
+
+							<div class="overlay-container">
+
+								<label class="block-price-back" ng-if="featuredLabel" >{{post.featured_label}}</label>
+
+								<a class="ov-title" href="{{post.permalink}}" ng-bind-html="post.title.long"></a>
+
+								<div class="caption" ng-bind-html="post.short_content"></div>
+
+
+							</div>
+						</div>
+
+					</div>
+				</div>
+
+			</div>
+
+		</div>
+		
+		
+
+	</div>
+
+	<div class="caption-block">
+
+		<div class="caption-container">
+			<a ng-href="{{post.permalink}}" class="list-view lscf-title" ng-bind-html="post.title.long"></a>
+		</div>
+		
+	</div>
+
+</div>

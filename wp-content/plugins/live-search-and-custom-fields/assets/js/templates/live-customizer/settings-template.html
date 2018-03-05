@@ -1,0 +1,38 @@
+<script type="text/html" id="template-tax">
+
+	<div class="lscf-fronteditor-settings lscf-extrasidebar-template" data-fields-type="settings-page">
+
+		<div class="lscf-fes-headline">Options</div>
+
+		<ul class="lscf-settings-options">
+			
+			<!--<li>
+				<input 
+					{{#set_settings_option_as_active}}run_shortcodes{{/set_settings_option_as_active}}
+					data-key="run_shortcodes"
+					class="px-checkbox" 
+					id="lscf-settings-run-shortcode" 
+					type="checkbox" name="lscf_run_shortcode"   
+					value="1"
+				/>
+				<label class="px-checkbox-label green" for="lscf-settings-run-shortcode"></label>
+				<span class="lscf-settings-checkbox">Run shortcodes</span>
+			</li>-->
+
+			<li>
+				<input 
+					{{#set_settings_option_as_active}}disable_empty_option_on_filtering{{/set_settings_option_as_active}}
+					data-key="disable_empty_option_on_filtering"
+					class="px-checkbox" 
+					id="lscf-disable_empty_option_on_filtering" 
+					type="checkbox" name="disable_empty_option_on_filtering"   
+					value="1"
+				/>
+				<label class="px-checkbox-label green" for="lscf-disable_empty_option_on_filtering"></label>
+				<span class="lscf-settings-checkbox">Disable empty options/categories when filtering</span>
+			</li>
+		</ul>
+
+	</div>
+
+</script>

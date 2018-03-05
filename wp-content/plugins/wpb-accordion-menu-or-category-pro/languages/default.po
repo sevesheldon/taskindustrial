@@ -1,0 +1,238 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPB Accordion Menu or Category PRO\n"
+"POT-Creation-Date: 2015-07-21 14:21+0600\n"
+"PO-Revision-Date: 2015-07-21 14:21+0600\n"
+"Last-Translator: wpbean <imranmodel35@gmail.com>\n"
+"Language-Team: WpBean <imranmodel35@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: inc\n"
+"X-Poedit-SearchPath-1: admin\n"
+"X-Poedit-SearchPath-2: admin/settings\n"
+"X-Poedit-SearchPath-3: admin/wp-menu-item-custom-fields\n"
+"X-Poedit-SearchPath-4: admin/wp-menu-item-custom-fields/config\n"
+
+#: admin/settings/class.settings-api.php:352
+msgid "Choose File"
+msgstr ""
+
+#: admin/settings/wpb-wmca-settings.php:35
+msgid "WPB Accordion Menu or Category"
+msgstr ""
+
+#: admin/settings/wpb-wmca-settings.php:42
+msgid "Category Accordion Settings"
+msgstr ""
+
+#: admin/settings/wpb-wmca-settings.php:46
+msgid "Menu Accordion Settings"
+msgstr ""
+
+#: admin/settings/wpb-wmca-settings.php:50
+msgid "Other Settings"
+msgstr ""
+
+#: admin/settings/wpb-wmca-settings.php:66
+msgid "Category Icon Support"
+msgstr ""
+
+#: admin/settings/wpb-wmca-settings.php:67
+#: admin/settings/wpb-wmca-settings.php:83
+msgid "No Please!"
+msgstr ""
+
+#: admin/settings/wpb-wmca-settings.php:72
+msgid "Taxonomy Icon Support"
+msgstr ""
+
+#: admin/settings/wpb-wmca-settings.php:73
+msgid "Choose taxonomies where you want icon support."
+msgstr ""
+
+#: admin/settings/wpb-wmca-settings.php:82
+msgid "Menu Icon Support"
+msgstr ""
+
+#: admin/settings/wpb-wmca-settings.php:92
+msgid "Choose a theme"
+msgstr ""
+
+#: admin/settings/wpb-wmca-settings.php:93
+msgid "Default Drak Theme"
+msgstr ""
+
+#: admin/settings/wpb-wmca-settings.php:105
+msgid "Background Color"
+msgstr ""
+
+#: admin/settings/wpb-wmca-settings.php:112
+msgid "Child Background Color"
+msgstr ""
+
+#: admin/settings/wpb-wmca-settings.php:119
+msgid "Background Hover Color"
+msgstr ""
+
+#: admin/settings/wpb-wmca-settings.php:126
+msgid "Text Color"
+msgstr ""
+
+#: admin/settings/wpb-wmca-settings.php:133
+msgid "Border Color"
+msgstr ""
+
+#: admin/wp-menu-item-custom-fields/config/menu-item-custom-fields-config.php:28
+msgid "Menu Icon"
+msgstr ""
+
+#: admin/wpb-wmca-taxonomie-meta.php:16 admin/wpb-wmca-taxonomie-meta.php:36
+#: admin/wpb-wmca-taxonomie-meta.php:73
+msgid "Icon"
+msgstr ""
+
+#: admin/wpb-wmca-taxonomie-meta.php:21 admin/wpb-wmca-taxonomie-meta.php:42
+msgid "Choose an icon"
+msgstr ""
+
+#: admin/wpb-wmca-widget.php:25
+msgid "WPB Menu Accordion"
+msgstr ""
+
+#: admin/wpb-wmca-widget.php:26
+msgid "Dispay accordion of WordPress menu."
+msgstr ""
+
+#: admin/wpb-wmca-widget.php:73 admin/wpb-wmca-widget.php:249
+msgid "Title:"
+msgstr ""
+
+#: admin/wpb-wmca-widget.php:77
+msgid ""
+"Select a theme location or select a menu. Do not select theme location & menu "
+"at a time. Use one of it."
+msgstr ""
+
+#: admin/wpb-wmca-widget.php:81
+msgid "Select a theme location"
+msgstr ""
+
+#: admin/wpb-wmca-widget.php:83 admin/wpb-wmca-widget.php:100
+msgid "- Select an option -"
+msgstr ""
+
+#: admin/wpb-wmca-widget.php:98
+msgid "Select a menu"
+msgstr ""
+
+#: admin/wpb-wmca-widget.php:110 admin/wpb-wmca-widget.php:339
+msgid "Close previously opened accordion"
+msgstr ""
+
+#: admin/wpb-wmca-widget.php:112 admin/wpb-wmca-widget.php:311
+#: admin/wpb-wmca-widget.php:317 admin/wpb-wmca-widget.php:323
+#: admin/wpb-wmca-widget.php:341
+msgid "Yes please."
+msgstr ""
+
+#: admin/wpb-wmca-widget.php:116
+msgid "Menu depth:"
+msgstr ""
+
+#: admin/wpb-wmca-widget.php:118
+msgid "How many levels of the hierarchy are to be included where 0 means all."
+msgstr ""
+
+#: admin/wpb-wmca-widget.php:122 admin/wpb-wmca-widget.php:345
+msgid "Extra class:"
+msgstr ""
+
+#: admin/wpb-wmca-widget.php:176
+msgid "WPB Category Accordion"
+msgstr ""
+
+#: admin/wpb-wmca-widget.php:177
+msgid "Dispay accordion of WordPress Categories."
+msgstr ""
+
+#: admin/wpb-wmca-widget.php:255
+msgid "Select a taxonomy"
+msgstr ""
+
+#: admin/wpb-wmca-widget.php:266
+msgid "Exclude Categories"
+msgstr ""
+
+#: admin/wpb-wmca-widget.php:290
+msgid "Orderby"
+msgstr ""
+
+#: admin/wpb-wmca-widget.php:292
+msgid "ID"
+msgstr ""
+
+#: admin/wpb-wmca-widget.php:293
+msgid "Name"
+msgstr ""
+
+#: admin/wpb-wmca-widget.php:294
+msgid "Slug"
+msgstr ""
+
+#: admin/wpb-wmca-widget.php:295
+msgid "Count"
+msgstr ""
+
+#: admin/wpb-wmca-widget.php:296
+msgid "Term Group"
+msgstr ""
+
+#: admin/wpb-wmca-widget.php:301
+msgid "Order"
+msgstr ""
+
+#: admin/wpb-wmca-widget.php:303
+msgid "Ascending"
+msgstr ""
+
+#: admin/wpb-wmca-widget.php:304
+msgid "Descending"
+msgstr ""
+
+#: admin/wpb-wmca-widget.php:309
+msgid "Show post count in category"
+msgstr ""
+
+#: admin/wpb-wmca-widget.php:315
+msgid "Hide empty categories"
+msgstr ""
+
+#: admin/wpb-wmca-widget.php:321
+msgid ""
+"Display sub-categories as inner list items (below the parent list item) or "
+"inline"
+msgstr ""
+
+#: admin/wpb-wmca-widget.php:327
+msgid "Number of categories"
+msgstr ""
+
+#: admin/wpb-wmca-widget.php:329
+msgid "How many categories to show where 0 means all."
+msgstr ""
+
+#: admin/wpb-wmca-widget.php:333
+msgid "Category depth:"
+msgstr ""
+
+#: admin/wpb-wmca-widget.php:335
+msgid ""
+" This parameter controls how many levels in the hierarchy of Categories are "
+"to be included in the list of Categories where 0 means all."
+msgstr ""

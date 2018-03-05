@@ -1,0 +1,49 @@
+
+/* WOOCOMMERCE BREADCRUMBS */
+nav.woocommerce-breadcrumb {
+	margin-bottom: 50px !important;
+}
+
+/* CRUSHER-DUTY */
+
+.px-fiels-wrapper {
+    margin-top: 0;
+}
+
+.px-filter-fields .lascf-reset-filter {
+    margin-top: 0;
+}
+
+div#lscf-posts-wrapper {
+    margin-top: 0 !important;
+}
+
+.px-filter-fields.lscf-horizontal-sidebar .lscf-filter-field {
+    height: auto;
+}
+
+.px-filter-fields.lscf-horizontal-sidebar .pxCheckField .px_checkboxesList .px_checkbox-li {
+    float: none;
+}
+
+.px-filter-fields.lscf-horizontal-sidebar .lscf-filter-field.lscf-large-field {
+    width: auto;
+}
+
+.px-filter-fields.lscf-horizontal-sidebar {
+    margin-bottom: 0;
+}
+
+.px-capf-wrapper {
+	min-height: auto;
+	padding-bottom: 0;
+}
+
+.vc_row {
+    padding-bottom: 0 !important;
+}
+
+#tablepress-31_wrapper {
+    width: 95% !important;
+    float: right !important;
+}

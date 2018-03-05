@@ -1,0 +1,46 @@
+/* 
+ * WPB Menu & Category Accordion
+ * Author: WPBean
+ */
+
+.remove-times {
+	z-index: 9;
+}
+
+/**
+* Search Icons in Icon Picker
+*/
+.wpb_wmca_icon_search_box {
+
+}
+.wpb_wmca_icon_search_box label {
+  font-weight: 400;
+  font-size: 14px;
+}
+.wpb_wmca_icon_search_box input[name="wpb-wmca-icon-search"] {
+	
+}
+
+
+
+body.nav-menus-php .icon-picker-overlay {
+	position: inherit;!important;
+}
+body.nav-menus-php .fa-set{
+	border: 1px solid #dfdfdf;
+	background: #fafafa;
+}
+body.nav-menus-php .icon-selected {
+  background: #DCD9D9;
+}
+
+
+.wpb_wmca_cat_exclude, 
+.wpb_wmca_cat_include {
+  display: block;
+}
+.wpb_wmca_cat_exclude span,
+.wpb_wmca_cat_include span {
+  display: inline-block;
+  width: 33.33%;
+}

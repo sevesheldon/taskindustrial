@@ -1,0 +1,65 @@
+1.8
+- Added WooCommerce 2.6.9 compatibility
+- Updated Visual Composer to  5.0.1
+- Updated Layer Slider to 6.1.0
+- Updated Font Awesome to version 4.7.0
+- Updated TGM Plugin Activation to 2.6.1
+- Fixed conditional script for applying changes in Edge Options
+- Fixed the issue with Testimonials job position
+
+1.7
+- Added WooCommerce 2.6.6 compatibility
+- Added Google Maps API key option
+- Updated Visual Composer to 4.12.1
+- Updated Layer Slider to 5.6.10
+- Updated Font Awesome Icon pack to 4.6.3
+
+1.6
+- Added Woocommerce 2.6.1 compatibility
+- Updated Visual Composer to 4.12
+- Updated Layer Slider to 5.6.8
+- Fixed Social Share functionality
+
+1.5
+- Added Woocommerce 2.5.5 compatibility
+- Updated Visual Composer to 4.11.2.1
+- Updated Layer Slider to 5.6.6
+
+1.4
+- Added Wordpress 4.5 compatibility
+- Updated Visual Composer to 4.11.1
+
+1.3
+- Updated Visual Composer to 4.9.1
+- Added Woocommerce 2.4.12 compatibility
+- Fixed Google Map Warning that Sensor parameter is no longer being required
+- Fixed bug with Edge Carousel not saving number of items when set to 3
+- Fixed bug with Edge Title not accepting left text alignment
+- Fixed issue with Blockquote element now rendering default blockquote text
+- Fixed issue with Custom Font element not saving default styling values
+- Fixed bug with Portfolio List Columns option not applying
+- Fixed spacing issue causing 404 error in WP admin
+
+1.2.1
+- Updated Visual Composer to 4.7.4
+- Updated Layer Slider to 5.6.2
+- Enabled Yoast SEO plugin page analysis functionality as issue with VC is resolved
+- Fixed issue with VC Grid Elements and VC Button
+- Fixed bug with initially expanded row arrow rotation.
+- Fixed bug with Single Image Style attribute.
+- Fixed Empty Space shortcode issue.
+
+1.2
+- Added Woocommerce 2.4.6 compatibility
+- Updated Layer Slider to version 5.5.1
+- Updated Font Awesome to version 4.4.0
+- Fixed mobile menu active state
+- Fixed Interactive banners shortcode problem
+- Fixed bug with side area background image option in Edge Options
+- Fixed bug with saving values in Countdown shortcode
+- Fixed 404 page loading when ajax page transitions are on
+- Fixed Side Menu - Opening Behaviour Float - dropdown
+
+1.1
+- Added performance improvements
+- Fixed problem with saving options with Visual Composer

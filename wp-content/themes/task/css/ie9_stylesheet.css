@@ -1,0 +1,14 @@
+.carousel-inner .slider_content .text.one_by_one.from_bottom .el{
+    top: 0px !important;
+}
+
+.fade_in.popup_menu_opened .popup_menu_holder_outer,
+.search_fade_in .animate.fade.fullscreen_search_holder
+{
+    visibility: visible !important;
+    opacity: 1 !important;
+}
+
+:not(.transparent).qbutton.fill_diagonal:hover .a_overlay, .load_more.fill_diagonal a:hover .a_overlay{
+    transform: translate(0) !important;
+}

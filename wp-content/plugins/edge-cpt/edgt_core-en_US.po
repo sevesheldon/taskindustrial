@@ -1,0 +1,707 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Edge CPT v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-06-19 15:21:46+0000\n"
+"Last-Translator: admin <support@edge-themes.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: post-types/carousels/carousel-register.php:56
+#: post-types/carousels/carousel-register.php:57
+#@ edgt_core
+msgid "Edge Carousel"
+msgstr ""
+
+#: post-types/carousels/carousel-register.php:58
+#@ edgt_core
+msgid "Carousel Items"
+msgstr ""
+
+#: post-types/carousels/carousel-register.php:59
+#: post-types/carousels/carousel-register.php:62
+#@ edgt_core
+msgid "Add New Carousel Item"
+msgstr ""
+
+#: post-types/carousels/carousel-register.php:60
+#@ edgt_core
+msgid "Carousel Item"
+msgstr ""
+
+#: post-types/carousels/carousel-register.php:61
+#@ edgt_core
+msgid "New Carousel Item"
+msgstr ""
+
+#: post-types/carousels/carousel-register.php:63
+#@ edgt_core
+msgid "Edit Carousel Item"
+msgstr ""
+
+#: post-types/carousels/carousel-register.php:83
+#: post-types/carousels/carousel-register.php:93
+#@ taxonomy general name
+#@ edgt_core
+msgid "Carousels"
+msgstr ""
+
+#: post-types/carousels/carousel-register.php:84
+#@ taxonomy singular name
+msgid "Carousel"
+msgstr ""
+
+#: post-types/carousels/carousel-register.php:85
+#@ edgt_core
+msgid "Search Carousels"
+msgstr ""
+
+#: post-types/carousels/carousel-register.php:86
+#@ edgt_core
+msgid "All Carousels"
+msgstr ""
+
+#: post-types/carousels/carousel-register.php:87
+#@ edgt_core
+msgid "Parent Carousel"
+msgstr ""
+
+#: post-types/carousels/carousel-register.php:88
+#@ edgt_core
+msgid "Parent Carousel:"
+msgstr ""
+
+#: post-types/carousels/carousel-register.php:89
+#@ edgt_core
+msgid "Edit Carousel"
+msgstr ""
+
+#: post-types/carousels/carousel-register.php:90
+#@ edgt_core
+msgid "Update Carousel"
+msgstr ""
+
+#: post-types/carousels/carousel-register.php:91
+#@ edgt_core
+msgid "Add New Carousel"
+msgstr ""
+
+#: post-types/carousels/carousel-register.php:92
+#@ edgt_core
+msgid "New Carousel Name"
+msgstr ""
+
+#: post-types/carousels/shortcodes/carousel.php:306
+#: post-types/masonry-gallery/shortcodes/masonry-gallery.php:368
+#: post-types/portfolio/shortcodes/portfolio-list.php:1790
+#: post-types/portfolio/shortcodes/portfolio-list.php:2116
+#: post-types/portfolio/shortcodes/portfolio-slider.php:978
+#: post-types/slider/shortcodes/slider.php:1808
+#: post-types/testimonials/shortcodes/testimonials.php:1050
+#@ edgt_core
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: post-types/masonry-gallery/masonry-gallery-register.php:59
+#@ edgt_core
+msgid "Masonry Gallery"
+msgstr ""
+
+#: post-types/masonry-gallery/masonry-gallery-register.php:60
+#@ edgt_core
+msgid "Masonry Gallery Items"
+msgstr ""
+
+#: post-types/masonry-gallery/masonry-gallery-register.php:61
+#@ edgt_core
+msgid "Masonry Gallery Item"
+msgstr ""
+
+#: post-types/masonry-gallery/masonry-gallery-register.php:62
+#@ edgt_core
+msgid "New Masonry Gallery Item"
+msgstr ""
+
+#: post-types/masonry-gallery/masonry-gallery-register.php:63
+#@ edgt_core
+msgid "Add New Masonry Gallery Item"
+msgstr ""
+
+#: post-types/masonry-gallery/masonry-gallery-register.php:64
+#@ edgt_core
+msgid "Edit Masonry Gallery Item"
+msgstr ""
+
+#: post-types/masonry-gallery/masonry-gallery-register.php:84
+#: post-types/masonry-gallery/masonry-gallery-register.php:94
+#@ taxonomy general name
+#@ edgt_core
+msgid "Masonry Gallery Categories"
+msgstr ""
+
+#: post-types/masonry-gallery/masonry-gallery-register.php:85
+#@ taxonomy singular name
+msgid "Masonry Gallery Category"
+msgstr ""
+
+#: post-types/masonry-gallery/masonry-gallery-register.php:86
+#@ edgt_core
+msgid "Search Masonry Gallery Categories"
+msgstr ""
+
+#: post-types/masonry-gallery/masonry-gallery-register.php:87
+#@ edgt_core
+msgid "All Masonry Gallery Categories"
+msgstr ""
+
+#: post-types/masonry-gallery/masonry-gallery-register.php:88
+#@ edgt_core
+msgid "Parent Masonry Gallery Category"
+msgstr ""
+
+#: post-types/masonry-gallery/masonry-gallery-register.php:89
+#@ edgt_core
+msgid "Parent Masonry Gallery Category:"
+msgstr ""
+
+#: post-types/masonry-gallery/masonry-gallery-register.php:90
+#@ edgt_core
+msgid "Edit Masonry Gallery Category"
+msgstr ""
+
+#: post-types/masonry-gallery/masonry-gallery-register.php:91
+#@ edgt_core
+msgid "Update Masonry Gallery Category"
+msgstr ""
+
+#: post-types/masonry-gallery/masonry-gallery-register.php:92
+#@ edgt_core
+msgid "Add New Masonry Gallery Category"
+msgstr ""
+
+#: post-types/masonry-gallery/masonry-gallery-register.php:93
+#@ edgt_core
+msgid "New Masonry Gallery Category Name"
+msgstr ""
+
+#: post-types/portfolio/portfolio-register.php:81
+#@ edgt_core
+msgid "Portfolio"
+msgstr ""
+
+#: post-types/portfolio/portfolio-register.php:82
+#@ edgt_core
+msgid "Portfolio Item"
+msgstr ""
+
+#: post-types/portfolio/portfolio-register.php:83
+#@ edgt_core
+msgid "New Portfolio Item"
+msgstr ""
+
+#: post-types/portfolio/portfolio-register.php:84
+#@ edgt_core
+msgid "Add New Portfolio Item"
+msgstr ""
+
+#: post-types/portfolio/portfolio-register.php:85
+#@ edgt_core
+msgid "Edit Portfolio Item"
+msgstr ""
+
+#: post-types/portfolio/portfolio-register.php:103
+#: post-types/portfolio/portfolio-register.php:113
+#@ taxonomy general name
+#@ edgt_core
+msgid "Portfolio Categories"
+msgstr ""
+
+#: post-types/portfolio/portfolio-register.php:104
+#@ taxonomy singular name
+msgid "Portfolio Category"
+msgstr ""
+
+#: post-types/portfolio/portfolio-register.php:105
+#@ edgt_core
+msgid "Search Portfolio Categories"
+msgstr ""
+
+#: post-types/portfolio/portfolio-register.php:106
+#@ edgt_core
+msgid "All Portfolio Categories"
+msgstr ""
+
+#: post-types/portfolio/portfolio-register.php:107
+#@ edgt_core
+msgid "Parent Portfolio Category"
+msgstr ""
+
+#: post-types/portfolio/portfolio-register.php:108
+#@ edgt_core
+msgid "Parent Portfolio Category:"
+msgstr ""
+
+#: post-types/portfolio/portfolio-register.php:109
+#@ edgt_core
+msgid "Edit Portfolio Category"
+msgstr ""
+
+#: post-types/portfolio/portfolio-register.php:110
+#@ edgt_core
+msgid "Update Portfolio Category"
+msgstr ""
+
+#: post-types/portfolio/portfolio-register.php:111
+#@ edgt_core
+msgid "Add New Portfolio Category"
+msgstr ""
+
+#: post-types/portfolio/portfolio-register.php:112
+#@ edgt_core
+msgid "New Portfolio Category Name"
+msgstr ""
+
+#: post-types/portfolio/portfolio-register.php:130
+#: post-types/portfolio/portfolio-register.php:140
+#@ taxonomy general name
+#@ edgt_core
+msgid "Portfolio Tags"
+msgstr ""
+
+#: post-types/portfolio/portfolio-register.php:131
+#@ taxonomy singular name
+msgid "Portfolio Tag"
+msgstr ""
+
+#: post-types/portfolio/portfolio-register.php:132
+#@ edgt_core
+msgid "Search Portfolio Tags"
+msgstr ""
+
+#: post-types/portfolio/portfolio-register.php:133
+#@ edgt_core
+msgid "All Portfolio Tags"
+msgstr ""
+
+#: post-types/portfolio/portfolio-register.php:134
+#@ edgt_core
+msgid "Parent Portfolio Tag"
+msgstr ""
+
+#: post-types/portfolio/portfolio-register.php:135
+#@ edgt_core
+msgid "Parent Portfolio Tags:"
+msgstr ""
+
+#: post-types/portfolio/portfolio-register.php:136
+#@ edgt_core
+msgid "Edit Portfolio Tag"
+msgstr ""
+
+#: post-types/portfolio/portfolio-register.php:137
+#@ edgt_core
+msgid "Update Portfolio Tag"
+msgstr ""
+
+#: post-types/portfolio/portfolio-register.php:138
+#@ edgt_core
+msgid "Add New Portfolio Tag"
+msgstr ""
+
+#: post-types/portfolio/portfolio-register.php:139
+#@ edgt_core
+msgid "New Portfolio Tag Name"
+msgstr ""
+
+#: post-types/portfolio/shortcodes/portfolio-list.php:898
+#@ edgt_core
+msgid "Please insert top margin for load more button"
+msgstr ""
+
+#: post-types/portfolio/shortcodes/portfolio-list.php:1465
+#: post-types/portfolio/shortcodes/portfolio-list.php:1812
+#@ edgt_core
+msgid "Sort Portfolio:"
+msgstr ""
+
+#: post-types/portfolio/shortcodes/portfolio-list.php:1468
+#: post-types/portfolio/shortcodes/portfolio-list.php:1470
+#: post-types/portfolio/shortcodes/portfolio-list.php:1814
+#@ edgt_core
+msgid "All"
+msgstr ""
+
+#: post-types/portfolio/shortcodes/portfolio-list.php:1799
+#@ edgt_core
+msgid "Show more"
+msgstr ""
+
+#: post-types/portfolio/shortcodes/portfolio-list.php:1800
+#@ edgt_core
+msgid "Loading..."
+msgstr ""
+
+#: post-types/portfolio/shortcodes/portfolio-slider.php:839
+#@ edgt_core
+msgid "In "
+msgstr ""
+
+#: post-types/slider/shortcodes/slider.php:1778
+#@ edgt_core
+msgid "Sorry, no slides matched your criteria."
+msgstr ""
+
+#: post-types/slider/slider-register.php:53
+#: post-types/slider/slider-register.php:54
+#@ edgt_core
+msgid "Edge Slider"
+msgstr ""
+
+#: post-types/slider/slider-register.php:55
+#@ edgt_core
+msgid "Slides"
+msgstr ""
+
+#: post-types/slider/slider-register.php:56
+#: post-types/slider/slider-register.php:59
+#@ edgt_core
+msgid "Add New Slide"
+msgstr ""
+
+#: post-types/slider/slider-register.php:57
+#@ edgt_core
+msgid "Slide"
+msgstr ""
+
+#: post-types/slider/slider-register.php:58
+#@ edgt_core
+msgid "New Slide"
+msgstr ""
+
+#: post-types/slider/slider-register.php:60
+#@ edgt_core
+msgid "Edit Slide"
+msgstr ""
+
+#: post-types/slider/slider-register.php:80
+#: post-types/slider/slider-register.php:90
+#@ taxonomy general name
+#@ edgt_core
+msgid "Sliders"
+msgstr ""
+
+#: post-types/slider/slider-register.php:81
+#@ taxonomy singular name
+msgid "Slider"
+msgstr ""
+
+#: post-types/slider/slider-register.php:82
+#@ edgt_core
+msgid "Search Sliders"
+msgstr ""
+
+#: post-types/slider/slider-register.php:83
+#@ edgt_core
+msgid "All Sliders"
+msgstr ""
+
+#: post-types/slider/slider-register.php:84
+#@ edgt_core
+msgid "Parent Slider"
+msgstr ""
+
+#: post-types/slider/slider-register.php:85
+#@ edgt_core
+msgid "Parent Slider:"
+msgstr ""
+
+#: post-types/slider/slider-register.php:86
+#@ edgt_core
+msgid "Edit Slider"
+msgstr ""
+
+#: post-types/slider/slider-register.php:87
+#@ edgt_core
+msgid "Update Slider"
+msgstr ""
+
+#: post-types/slider/slider-register.php:88
+#@ edgt_core
+msgid "Add New Slider"
+msgstr ""
+
+#: post-types/slider/slider-register.php:89
+#@ edgt_core
+msgid "New Slider Name"
+msgstr ""
+
+#: post-types/slider/tax-custom-fields.php:10
+#@ edgt_core
+msgid "Effect on header (dark/light style)"
+msgstr ""
+
+#: post-types/slider/tax-custom-fields.php:21
+#@ edgt_core
+msgid "Show prev/next thumbs (except for side menu or passepartout)"
+msgstr ""
+
+#: post-types/slider/tax-custom-fields.php:33
+#@ edgt_core
+msgid "Show slide number"
+msgstr ""
+
+#: post-types/slider/tax-custom-fields.php:45
+#@ edgt_core
+msgid "Parallax effect"
+msgstr ""
+
+#: post-types/slider/tax-custom-fields.php:56
+#@ edgt_core
+msgid "Breakpoint Coefficients 1 (values: 0-1, default value: 1)"
+msgstr ""
+
+#: post-types/slider/tax-custom-fields.php:60
+#: post-types/slider/tax-custom-fields.php:90
+#: post-types/slider/tax-custom-fields.php:120
+#: post-types/slider/tax-custom-fields.php:150
+#: post-types/slider/tax-custom-fields.php:180
+#: post-types/slider/tax-custom-fields.php:210
+#: post-types/slider/tax-custom-fields.php:240
+#@ edgt_core
+msgid "Graphic"
+msgstr ""
+
+#: post-types/slider/tax-custom-fields.php:64
+#: post-types/slider/tax-custom-fields.php:94
+#: post-types/slider/tax-custom-fields.php:124
+#: post-types/slider/tax-custom-fields.php:154
+#: post-types/slider/tax-custom-fields.php:184
+#: post-types/slider/tax-custom-fields.php:214
+#: post-types/slider/tax-custom-fields.php:244
+#@ edgt_core
+msgid "Title"
+msgstr ""
+
+#: post-types/slider/tax-custom-fields.php:68
+#: post-types/slider/tax-custom-fields.php:98
+#: post-types/slider/tax-custom-fields.php:128
+#: post-types/slider/tax-custom-fields.php:158
+#: post-types/slider/tax-custom-fields.php:188
+#: post-types/slider/tax-custom-fields.php:218
+#: post-types/slider/tax-custom-fields.php:248
+#@ edgt_core
+msgid "Subtitle"
+msgstr ""
+
+#: post-types/slider/tax-custom-fields.php:72
+#: post-types/slider/tax-custom-fields.php:102
+#: post-types/slider/tax-custom-fields.php:132
+#: post-types/slider/tax-custom-fields.php:162
+#: post-types/slider/tax-custom-fields.php:192
+#: post-types/slider/tax-custom-fields.php:222
+#: post-types/slider/tax-custom-fields.php:252
+#@ edgt_core
+msgid "Text"
+msgstr ""
+
+#: post-types/slider/tax-custom-fields.php:76
+#: post-types/slider/tax-custom-fields.php:106
+#: post-types/slider/tax-custom-fields.php:136
+#: post-types/slider/tax-custom-fields.php:166
+#: post-types/slider/tax-custom-fields.php:196
+#: post-types/slider/tax-custom-fields.php:226
+#: post-types/slider/tax-custom-fields.php:256
+#@ edgt_core
+msgid "Button"
+msgstr ""
+
+#: post-types/slider/tax-custom-fields.php:81
+#@ edgt_core
+msgid "screen width > 1600px for 'set1' and 'set2'"
+msgstr ""
+
+#: post-types/slider/tax-custom-fields.php:86
+#@ edgt_core
+msgid "Breakpoint Coefficients 2 (values: 0-1, default value: 1)"
+msgstr ""
+
+#: post-types/slider/tax-custom-fields.php:111
+#@ edgt_core
+msgid "screen width = [1200px,1600px] for 'set1', screen width = [1300px,1600px] for 'set2'"
+msgstr ""
+
+#: post-types/slider/tax-custom-fields.php:116
+#@ edgt_core
+msgid "Breakpoint Coefficients 3 (values: 0-1, default value: 0.8)"
+msgstr ""
+
+#: post-types/slider/tax-custom-fields.php:141
+#@ edgt_core
+msgid "screen width = [900px,1200px] for 'set1', screen width = [1000px,1300px] for 'set2'"
+msgstr ""
+
+#: post-types/slider/tax-custom-fields.php:146
+#@ edgt_core
+msgid "Breakpoint Coefficients 4 (values: 0-1, default value: 0.7)"
+msgstr ""
+
+#: post-types/slider/tax-custom-fields.php:171
+#@ edgt_core
+msgid "screen width = [650px,900px] for 'set1', screen width = [768px,1000px] for 'set2'"
+msgstr ""
+
+#: post-types/slider/tax-custom-fields.php:176
+#@ edgt_core
+msgid "Breakpoint Coefficients 5 (values: 0-1, default value: 0.6)"
+msgstr ""
+
+#: post-types/slider/tax-custom-fields.php:201
+#@ edgt_core
+msgid "screen width = [500px,650px] for 'set1', screen width = [567px,768px] for 'set2'"
+msgstr ""
+
+#: post-types/slider/tax-custom-fields.php:206
+#@ edgt_core
+msgid "Breakpoint Coefficients 6 (values: 0-1, default value: 0.5)"
+msgstr ""
+
+#: post-types/slider/tax-custom-fields.php:231
+#@ edgt_core
+msgid "screen width = [320px,500px] for 'set1', screen width = [320px,567px] for 'set2'"
+msgstr ""
+
+#: post-types/slider/tax-custom-fields.php:236
+#@ edgt_core
+msgid "Breakpoint Coefficients 7 (values: 0-1, default value: 0.4)"
+msgstr ""
+
+#: post-types/slider/tax-custom-fields.php:261
+#@ edgt_core
+msgid "screen width < 320px for 'set1' and 'set2'"
+msgstr ""
+
+#: post-types/slider/tax-custom-fields.php:266
+#@ edgt_core
+msgid "Slider shortcode"
+msgstr ""
+
+#: post-types/slider/tax-custom-fields.php:270
+#@ edgt_core
+msgid "Use this shortcode to insert it on page"
+msgstr ""
+
+#: post-types/slider/tax-custom-fields.php:300
+#@ edgt_core
+msgid "Name"
+msgstr ""
+
+#: post-types/slider/tax-custom-fields.php:301
+#@ edgt_core
+msgid "Shortcode"
+msgstr ""
+
+#: post-types/slider/tax-custom-fields.php:303
+#@ edgt_core
+msgid "Slug"
+msgstr ""
+
+#: post-types/slider/tax-custom-fields.php:304
+#@ edgt_core
+msgid "Posts"
+msgstr ""
+
+#: post-types/testimonials/shortcodes/testimonials.php:549
+#@ default
+msgid "Speed of slide animation in miliseconds"
+msgstr ""
+
+#: post-types/testimonials/testimonials-register.php:54
+#@ edgt_core
+msgid "Testimonials"
+msgstr ""
+
+#: post-types/testimonials/testimonials-register.php:55
+#@ edgt_core
+msgid "Testimonial"
+msgstr ""
+
+#: post-types/testimonials/testimonials-register.php:56
+#@ edgt_core
+msgid "New Testimonial"
+msgstr ""
+
+#: post-types/testimonials/testimonials-register.php:57
+#@ edgt_core
+msgid "Add New Testimonial"
+msgstr ""
+
+#: post-types/testimonials/testimonials-register.php:58
+#@ edgt_core
+msgid "Edit Testimonial"
+msgstr ""
+
+#: post-types/testimonials/testimonials-register.php:78
+#: post-types/testimonials/testimonials-register.php:88
+#@ taxonomy general name
+#@ edgt_core
+msgid "Testimonials Categories"
+msgstr ""
+
+#: post-types/testimonials/testimonials-register.php:79
+#@ taxonomy singular name
+msgid "Testimonial Category"
+msgstr ""
+
+#: post-types/testimonials/testimonials-register.php:80
+#@ edgt_core
+msgid "Search Testimonials Categories"
+msgstr ""
+
+#: post-types/testimonials/testimonials-register.php:81
+#@ edgt_core
+msgid "All Testimonials Categories"
+msgstr ""
+
+#: post-types/testimonials/testimonials-register.php:82
+#@ edgt_core
+msgid "Parent Testimonial Category"
+msgstr ""
+
+#: post-types/testimonials/testimonials-register.php:83
+#@ edgt_core
+msgid "Parent Testimonial Category:"
+msgstr ""
+
+#: post-types/testimonials/testimonials-register.php:84
+#@ edgt_core
+msgid "Edit Testimonials Category"
+msgstr ""
+
+#: post-types/testimonials/testimonials-register.php:85
+#@ edgt_core
+msgid "Update Testimonials Category"
+msgstr ""
+
+#: post-types/testimonials/testimonials-register.php:86
+#@ edgt_core
+msgid "Add New Testimonials Category"
+msgstr ""
+
+#: post-types/testimonials/testimonials-register.php:87
+#@ edgt_core
+msgid "New Testimonials Category Name"
+msgstr ""
+

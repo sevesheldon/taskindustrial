@@ -1,0 +1,10 @@
+drwxr-xr-x   3 2680483  15000        4096 Dec 16  2016 2016
+drwxr-xr-x  14 2680483  15000        4096 Nov 30 19:04 2017
+drwxr-xr-x   3 2680483  15000        4096 Jan  1 04:00 2018
+-rw-r--r--   1 2680483  15000     1147306 Sep  7 18:29 GeoIP.dat
+-rw-r--r--   1 2680483  15000     2098511 Sep  7 18:29 GeoIPv6.dat
+drwxrwxrwx   2 2680483  15000        4096 Dec 16  2016 js_composer
+drwxr-xr-x   3 2680483  15000        4096 Jan 18  2017 revslider
+drwxr-xr-x   2 2680483  15000        4096 Jan  4 17:45 wc-logs
+drwxr-xr-x   2 2680483  15000        4096 Dec 16  2016 woocommerce_uploads
+drwxrwxr-x   9 2680483  15000        4096 Jan  4 13:44 wpsc
