@@ -26,7 +26,7 @@ if ( ! empty( $breadcrumb ) ) {
 	$breadcrumb0 = $breadcrumb[0];
     $shop_txt = __( 'Shop', 'woocommerce' );
     $products_txt = __( 'Products', 'woocommerce' );
-    $products_url = home_url( '/our-products/' );
+    $products_url = home_url( '/shop' );
     $breadcrumb10 = array( $products_txt );
     $breadcrumb11 = array( $products_txt, $products_url );
     if(is_product() || is_shop() || is_product_category() || is_product_tag() ){

@@ -26,6 +26,8 @@ if(isset($edgt_options['blog_page_range']) && $edgt_options['blog_page_range'] !
     </script>
 
 	<?php get_template_part( 'title' ); ?>
+
+	<!-- <?php echo do_shortcode('[name_of_shortcode]'); ?> -->
 	
 	<div class="container">
 	<?php if($edgt_options['overlapping_content'] == 'yes') {?>

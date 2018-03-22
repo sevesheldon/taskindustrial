@@ -14,7 +14,8 @@
 
 	<?php wp_head(); ?>
 
-	<link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/custom.css">
+	<!-- This is just for the DEV site, all custom code for LIVE site is done in WP > Task Website Options > General > Custom CSS -->
+	<link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/custom.css"> 
 
 </head>
 
@@ -55,6 +56,7 @@
 <?php } ?>
 <div class="wrapper">
 <div class="wrapper_inner">	
+
 <?php if(edgt_is_side_header()) { ?>
 	<aside class="vertical_menu_area<?php echo esc_attr($vertical_area_scroll); ?> <?php echo esc_attr($header_style); ?>">
 		<div class="vertical_menu_area_inner">

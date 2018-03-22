@@ -1,4 +1,14 @@
 
+
+/* YITH Ajax Search Bar */
+
+
+/* HEADER AREA */
+
+nav.main_menu {
+    z-index: 1;
+}
+
 /* WOOCOMMERCE BREADCRUMBS */
 nav.woocommerce-breadcrumb {
 	margin-bottom: 50px !important;

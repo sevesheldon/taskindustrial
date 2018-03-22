@@ -7,8 +7,9 @@ padding-top: 65px;}
 margin-right: 20px; }
 
 nav.main_menu {
-  margin-top: 150px;
-z-index: 99999; }
+margin-top: 150px;
+/*z-index: 99999; */
+}
 
 
 
@@ -327,7 +328,7 @@ display: inline-block;
     box-sizing: border-box;
 margin-top: 10px; }
 
-h4.widgettitle{
+h2.widgettitle{
     font-size: 22px;
     line-height: 50px;
     color: #ffffff;

@@ -50,7 +50,7 @@ if(isset($edgt_options['woo_products_title_separator_hide_title_separator'])){
 
 ?>
 
-<!-- <?php woocommerce_breadcrumb(); ?> -->
+<?php woocommerce_breadcrumb(); ?>
 
 <?php switch($products_list_type) { 
 	
